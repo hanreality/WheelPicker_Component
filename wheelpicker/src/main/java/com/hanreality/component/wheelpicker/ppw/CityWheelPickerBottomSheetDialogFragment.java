@@ -10,11 +10,12 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.hengyi.wheelpicker.R;
-import com.hengyi.wheelpicker.listener.OnCityWheelComfirmListener;
-import com.hengyi.wheelpicker.listener.OnWheelChangedListener;
-import com.hengyi.wheelpicker.weight.WheelView;
-import com.hengyi.wheelpicker.weight.adapters.ArrayWheelAdapter;
+import com.hanreality.component.wheelpicker.R;
+import com.hanreality.component.wheelpicker.listener.OnCityWheelComfirmListener;
+import com.hanreality.component.wheelpicker.listener.OnWheelChangedListener;
+import com.hanreality.component.wheelpicker.weight.WheelView;
+import com.hanreality.component.wheelpicker.weight.adapters.ArrayWheelAdapter;
+
 
 /**
  * Created by Administrator on 2018/1/3.
